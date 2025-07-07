@@ -1,0 +1,344 @@
+[
+    {
+        "tarih": "2025-06-09 02:50:32",
+        "kullanici": "Zeynep",
+        "motivasyon_skoru": 0.2658495386441549,
+        "motivasyon_seviyesi": "low",
+        "kategoriler": [
+            "akademik",
+            "kariyer",
+            "zihinsel_saglik",
+            "aile",
+            "yemek",
+            "teknoloji",
+            "yaratıcılık"
+        ],
+        "sohbet": [
+            {
+                "soru": "Konu belirleme sorusu",
+                "cevap": "ödevlerim konusunda stresli ve endişeliyim",
+                "zaman": "02:51:08"
+            },
+            {
+                "soru": "Ders çalışırken motivasyonunu nasıl koruyorsun?",
+                "cevap": "küçük molalar vererek kendimi çok şıkmadan çalışıyorum",
+                "duygu": "positive",
+                "duygu_skoru": 0.9749379754066467,
+                "zaman": "02:51:32"
+            },
+            {
+                "soru": "İş-yaşam dengesi konusunda kendini nasıl değerlendiriyorsun?",
+                "cevap": "iki tarafla da ortak dengeyi kurduğumu düşünüyorum",
+                "duygu": "positive",
+                "duygu_skoru": 0.9713577628135681,
+                "zaman": "02:52:01"
+            },
+            {
+                "soru": "Gelecek dönem için akademik planların neler?",
+                "cevap": "yeni bir yazılım projesine başlamayyı düşünüyorum",
+                "duygu": "negative",
+                "duygu_skoru": 1.998793601989746,
+                "zaman": "02:52:31"
+            },
+            {
+                "soru": "Yaratıcılığını engelleyen şeyler neler?",
+                "cevap": "hayal gücüm yeterince kuvvetli değil ve bu yaratıcılığımı engelliyor",
+                "duygu": "negative",
+                "duygu_skoru": 1.9988975524902344,
+                "zaman": "02:53:10"
+            },
+            {
+                "soru": "Yaratıcı projeleri neden erteliyorsun?",
+                "cevap": "yaratıcı değilim çünkü",
+                "duygu": "negative",
+                "duygu_skoru": 0.999057948589325,
+                "zaman": "02:53:23"
+            },
+            {
+                "soru": "Sınav kaygısıyla başa çıkamadığın durumlar neler?",
+                "cevap": "başarısızlık işgüdüsü beni çok zorluyor",
+                "duygu": "negative",
+                "duygu_skoru": 0.9609506130218506,
+                "zaman": "02:53:44"
+            },
+            {
+                "soru": "Ödevlerini erteleme nedenlerin neler?",
+                "cevap": "mükemmelliyetçi oluşumda dolayı en ufak hatada sinirleniyor ve erteliyorum",
+                "duygu": "negative",
+                "duygu_skoru": 0.9957641363143921,
+                "zaman": "02:54:21"
+            }
+        ],
+        "oneriler": {
+            "yaratıcılık": [
+                "Çocukken sevdiğin yaratıcı aktivitelere dön",
+                "Basit sanat malzemeleriyle denemeler yap",
+                "Yaratıcı blokaj için kendine izin ver"
+            ],
+            "akademik": [
+                "Zorlandığın konuları belirle ve yardım iste",
+                "Gerçekçi hedefler belirle ve başardıkça küçük ödüller ver",
+                "Çalışma ortamını düzenleyerek dikkat dağıtıcıları azalt"
+            ],
+            "kariyer": [
+                "Temel becerilerini geliştirmeye başla",
+                "Bir kariyer danışmanıyla görüş",
+                "Kariyer hedeflerini yazılı hale getir"
+            ]
+        }
+    },
+    {
+        "tarih": "2025-06-17 03:45:26",
+        "kullanici": "Zeynep",
+        "motivasyon_skoru": 0.8422254840532939,
+        "motivasyon_seviyesi": "high",
+        "kategoriler": [
+            "akademik",
+            "zihinsel_saglik",
+            "yemek",
+            "sosyal",
+            "aile",
+            "kariyer",
+            "fiziksel_saglik"
+        ],
+        "sohbet": [
+            {
+                "soru": "Konu belirleme sorusu",
+                "cevap": "son zamanlarda sınavlarım yüzünden biraz stresli hissediyorum",
+                "zaman": "03:46:22"
+            },
+            {
+                "soru": "Psikolojik dayanıklılığını nasıl geliştiriyorsun?",
+                "cevap": "yaşadığım şeyleri arkadaşlarımla paylaşarak",
+                "duygu": "positive",
+                "duygu_skoru": 1.8338371515274048,
+                "zaman": "03:47:28"
+            },
+            {
+                "soru": "Sosyal çevren seni nasıl etkiliyor?",
+                "cevap": "çevrem beni desteklediği için beni olumlu yönde etkiliyor özellikle ailem beni çok destekliyor",
+                "duygu": "positive",
+                "duygu_skoru": 2.9894758462905884,
+                "zaman": "03:48:22"
+            },
+            {
+                "soru": "Sosyal aktivitelerde en çok neyden keyif alıyorsun?",
+                "cevap": "arkadaşlarımla vakit geçirmekten çok keyif alıyorum",
+                "duygu": "positive",
+                "duygu_skoru": 1.9757142663002014,
+                "zaman": "03:49:09"
+            },
+            {
+                "soru": "Ailenle olan ilişkilerini nasıl tanımlarsın?",
+                "cevap": "aile içi iletişimimiz ve ilişkilerimiz gayet sağlıklı ve bunun beni olumlu yönde etkilediğini düşünüyorum",
+                "duygu": "positive",
+                "duygu_skoru": 2.9677436351776123,
+                "zaman": "03:50:17"
+            },
+            {
+                "soru": "Arkadaşlık ilişkilerinde en çok neye önem veriyorsun?",
+                "cevap": "arkadaşlık ilişkkilerinde saygı ve güven benim için çok  önemli",
+                "duygu": "positive",
+                "duygu_skoru": 1.994130551815033,
+                "zaman": "03:50:51"
+            },
+            {
+                "soru": "Ailenle birlikte yapmaktan en çok keyif aldığın şey ne?",
+                "cevap": "haftasonları birlikte dışarda  yemeğe gitmekten hoşlanıyoru",
+                "duygu": "positive",
+                "duygu_skoru": 0.5708304643630981,
+                "zaman": "03:51:37"
+            },
+            {
+                "soru": "En yakın arkadaşlarının seni en çok etkileyen özelliği ne?",
+                "cevap": "beni olduğum şekilde kabul ediyorlar ve birlikte çok eğleniyoruz",
+                "duygu": "positive",
+                "duygu_skoru": 0.9826524257659912,
+                "zaman": "03:52:34"
+            }
+        ],
+        "oneriler": {
+            "sosyal": [
+                "Sosyal projelerde liderlik rolü al",
+                "Topluluk önünde konuşma pratiği yap",
+                "Yeni insanlara mentorluk yap"
+            ],
+            "aile": [
+                "Aile olarak toplumsal projeler yürütün",
+                "Aile vizyonu ve değerlerini belirleyin",
+                "Aile gelenekleri oluşturun ve sürdürün"
+            ],
+            "kariyer": [
+                "Yüksek profilli projelere katılın",
+                "Uzun vadeli kariyer planları yapın",
+                "Sektör konferanslarında konuşmacı olun"
+            ]
+        }
+    },
+    {
+        "tarih": "2025-06-17 03:55:10",
+        "kullanici": "Meyda",
+        "motivasyon_skoru": 0.1575714310010274,
+        "motivasyon_seviyesi": "low",
+        "kategoriler": [
+            "spirituel",
+            "yemek",
+            "zihinsel_saglik",
+            "kariyer",
+            "seyahat",
+            "sanat",
+            "teknoloji",
+            "aile"
+        ],
+        "sohbet": [
+            {
+                "soru": "Konu belirleme sorusu",
+                "cevap": "sosyal anlamda yalnız hissediyorum",
+                "zaman": "03:56:22"
+            },
+            {
+                "soru": "Meditasyon yapıyor musun? Nasıl bir deneyim?",
+                "cevap": "nadiren meditasyon yapıyorum ama çok etkili olduğunu söyleyemem",
+                "duygu": "negative",
+                "duygu_skoru": 0.9987019300460815,
+                "zaman": "03:56:49"
+            },
+            {
+                "soru": "Spiritüel konularda kendini nasıl hissediyorsun?",
+                "cevap": "spiritüel bağlamda kendimi yüksek olarak tanımlayamam",
+                "duygu": "negative",
+                "duygu_skoru": 0.9269448518753052,
+                "zaman": "03:58:20"
+            },
+            {
+                "soru": "Yemek yapmakta neden zorlanıyorsun?",
+                "cevap": "yemek yapmak bence bir yetenek işi ve bende o yetenek yok",
+                "duygu": "negative",
+                "duygu_skoru": 0.8414429426193237,
+                "zaman": "03:59:51"
+            },
+            {
+                "soru": "Yeni tarifler denemekten seni alıkoyan şey ne?",
+                "cevap": "yemek yapacak moivasyonum olmadığı için yeni şeyler denemek de istemiyorum",
+                "duygu": "negative",
+                "duygu_skoru": 0.999243974685669,
+                "zaman": "04:00:39"
+            },
+            {
+                "soru": "Yemekle ilişkini nasıl geliştirebilirsin?",
+                "cevap": "geliştiremem",
+                "duygu": "negative",
+                "duygu_skoru": 0.9995054006576538,
+                "zaman": "04:00:52"
+            },
+            {
+                "soru": "Maneviyatın hayatında nasıl bir yer tutuyor?",
+                "cevap": "manevi değerlere önem veririm",
+                "duygu": "positive",
+                "duygu_skoru": 1.9061291217803955,
+                "zaman": "04:01:14"
+            },
+            {
+                "soru": "Yemek yapmak senin için ne ifade ediyor?",
+                "cevap": "herhangi bir şey ifade em",
+                "duygu": "negative",
+                "duygu_skoru": 0.9590373635292053,
+                "zaman": "04:01:23"
+            }
+        ],
+        "oneriler": {
+            "yemek": [
+                "Haftada bir basit yeni tarif deneyin",
+                "Temel yemek tekniklerini öğrenin",
+                "Sağlıklı yemek alternatifleri araştırın"
+            ],
+            "spirituel": [
+                "Basit meditasyon denemeleri yapın",
+                "Haftada bir minnettarlık listesi yapın",
+                "Günde 3 dakika nefes egzersizi yapın"
+            ],
+            "teknoloji": [
+                "Teknoloji kullanımını gözden geçir",
+                "Ekran süreni azaltmak için küçük adımlar at",
+                "Basit bir dijital detoks yap"
+            ]
+        }
+    },
+    {
+        "tarih": "2025-06-17 04:09:03",
+        "kullanici": "Ceylan",
+        "motivasyon_skoru": 0.08859892686208089,
+        "motivasyon_seviyesi": "low",
+        "kategoriler": [
+            "akademik",
+            "kariyer",
+            "aile",
+            "sosyal",
+            "zihinsel_saglik",
+            "yemek"
+        ],
+        "sohbet": [
+            {
+                "soru": "Konu belirleme sorusu",
+                "cevap": "Ödevlerimle ilgili endişelerim var",
+                "zaman": "04:09:39"
+            },
+            {
+                "soru": "Hangi öğrenme yöntemi senin için en verimli?",
+                "cevap": "genellikle yazarak öğrenme yöntemi benim için daha etkili oluyor",
+                "duygu": "negative",
+                "duygu_skoru": 0.6062755584716797,
+                "zaman": "04:10:09"
+            },
+            {
+                "soru": "Aile içi iletişimde zorlandığın noktalar neler?",
+                "cevap": "ailemdeki bireyler birbirlerini dinlemiyor ve bu bir iletişim kopukluğuna sebep oluyor",
+                "duygu": "negative",
+                "duygu_skoru": 0.9987843632698059,
+                "zaman": "04:10:48"
+            },
+            {
+                "soru": "Ders çalışmaya başlamakta neden zorlanıyorsun?",
+                "cevap": "odaklanma problemi yaşıyorum",
+                "duygu": "negative",
+                "duygu_skoru": 0.999403715133667,
+                "zaman": "04:11:37"
+            },
+            {
+                "soru": "Zihinsel olarak en çok ne seni yoruyor?",
+                "cevap": "küçük detaylara takılıyor olmak beni zihinsel açıdan çok yoruyor",
+                "duygu": "negative",
+                "duygu_skoru": 0.9983103275299072,
+                "zaman": "04:12:34"
+            },
+            {
+                "soru": "Zihinsel sağlık konusunda destek almayı düşünür müsün?",
+                "cevap": "eğer zihinsel açıdan daha kötü hissedersem almayı düşünürüm",
+                "duygu": "negative",
+                "duygu_skoru": 0.9978618025779724,
+                "zaman": "04:13:31"
+            },
+            {
+                "soru": "Kariyer hedeflerin konusunda kendini nasıl hissediyorsun?",
+                "cevap": "kariyer hedeflerim konusunda pek istikrarlı çalışmıyorum",
+                "duygu": "negative",
+                "duygu_skoru": 0.9982530474662781,
+                "zaman": "04:14:21"
+            }
+            
+        ],
+        "oneriler": {
+            
+            "zihinsel_saglik": [
+                "Olumsuz duyguları kabul et ve yargılama",
+                "Küçük molalar ver ve zihnini dinlendir",
+                "Günde 5 dakika nefes egzersizi yap"
+            ],
+            "aile": [
+                "Aile hikayelerini dinleyin ve kaydedin",
+                "Haftada bir aile yemeği düzenleyin",
+                "Birlikte basit gönüllülük aktiviteleri yapın"
+            ]
+        }
+    }
+]
